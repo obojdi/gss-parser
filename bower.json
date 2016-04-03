@@ -1,0 +1,10 @@
+{
+  "name": "hexlet-workshop-table",
+  "dependencies": {
+    "normalize.css": "~3.0.3",
+    "skeleton": "~2.0.4",
+    "tabletop": "^1.4.3",
+    "list.js": "^1.2.0",
+    "jquery": "^2.2.2"
+  }
+}
